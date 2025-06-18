@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Gustavo Aguilar
 
-<!--
-**gangeagui/gangeagui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador **Front-End Junior** con enfoque en el ecosistema **.NET** y experiencia construyendo interfaces modernas y responsivas con **Blazor** y **.NET MVC**.
 
-Here are some ideas to get you started:
+🎯 Actualmente colaboro en el desarrollo de una aplicación web interna, donde implemento interfaces amigables, consumo **APIs RESTful** y participo en el diseño del flujo de usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y herramientas
+
+- Lenguajes: `C#`, `JavaScript`, `HTML5`, `CSS3`
+- Frameworks: `.NET`, `Blazor`, `MVC`
+- Herramientas: `Git`, `Swagger`, `Postman`
+- Bases de datos: `SQL Server`
+- Otras habilidades: diseño responsivo, consumo de APIs, integración frontend-backend
+
+---
+
+### 🚀 Actualmente
+
+- 👨‍💻 Desarrollando aplicaciones web con Blazor + .NET MVC
+- 🌱 Aprendiendo y fortaleciendo habilidades en frontend, patrones de diseño y buenas prácticas
+- 🤝 Abierto a colaborar en proyectos web y seguir creciendo en equipos multidisciplinarios
+
+---
+
+### 📫 ¿Hablamos?
+
+- 📍 Hidalgo, México  
+- 📧 gangeagui@gmail.com  
+- 📱 +52 772 150 0767  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-aguilar-97879126a/)
+
+---
+
+> _"El código limpio siempre importa. Una buena interfaz puede cambiar toda la experiencia."_  
