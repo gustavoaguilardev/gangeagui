@@ -1,36 +1,43 @@
 ## 👋 ¡Hola! Soy Gustavo Aguilar
 
-Soy desarrollador **Front-End Junior** con enfoque en el ecosistema **.NET** y experiencia construyendo interfaces modernas y responsivas con **Blazor** y **.NET MVC**.
+📌 Desarrollador **Java Junior** con una sólida base en desarrollo de aplicaciones web y de escritorio. Me apasiona escribir código limpio, aplicar buenas prácticas y construir soluciones robustas utilizando **Java** y herramientas modernas del ecosistema backend.
 
-🎯 Actualmente colaboro en el desarrollo de una aplicación web interna, donde implemento interfaces amigables, consumo **APIs RESTful** y participo en el diseño del flujo de usuario.
+---
+
+### 🧠 Sobre mí
+
+- 🎓 Universitario - Titulado de Ingeniería en Sistemas Computacionales en el ITSOEH (agosto 2020 - diciembre 2024).
+- 🧰 Conocimientos en **Java SE**, **POO**, **colecciones**, **manejo de excepciones**, y estructuras de control.
+- 🌐 Familiaridad con frameworks como **Spring Boot**, desarrollo de APIs REST, y pruebas con **Postman**.
+- 🗄️ Experiencia práctica con **bases de datos relacionales (MySQL, SQL Server)** y consultas SQL.
+- ⚙️ En proceso de dominar herramientas como **Maven**, **Git**, **Docker** y metodologías ágiles.
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 
-- Lenguajes: `C#`, `JavaScript`, `HTML5`, `CSS3`
-- Frameworks: `.NET`, `Blazor`, `MVC`
-- Herramientas: `Git`, `Swagger`, `Postman`
-- Bases de datos: `SQL Server`
-- Otras habilidades: diseño responsivo, consumo de APIs, integración frontend-backend
+| Categoría         | Tecnologías                              |
+|------------------|-------------------------------------------|
+| Lenguajes         | `Java`, `SQL`, `JavaScript`, `HTML/CSS`  |
+| Frameworks        | `Spring Boot (básico)`, `JUnit`, `Thymeleaf` |
+| BD Relacionales   | `MySQL`, `SQL Server`                    |
+| Control de versiones | `Git`, `GitHub`                         |
+| Herramientas      | `Maven`, `Postman`, `VS Code`, `IntelliJ` |
+| Otros             | Principios SOLID, diseño MVC, RESTful APIs |
 
 ---
 
-### 🚀 Actualmente
+### 🚀 Actualmente estoy...
 
-- 👨‍💻 Desarrollando aplicaciones web con Blazor + .NET MVC
-- 🌱 Aprendiendo y fortaleciendo habilidades en frontend, patrones de diseño y buenas prácticas
-- 🤝 Abierto a colaborar en proyectos web y seguir creciendo en equipos multidisciplinarios
+- 🔍 Consolidando conocimientos de Java Backend con **Spring Boot**.
+- 🧪 Aprendiendo pruebas unitarias y validación de servicios con **JUnit**.
+- 📘 Estudiando patrones de diseño y principios SOLID.
+- 💡 Participando en proyectos personales y colaborativos para fortalecer habilidades prácticas.
 
 ---
 
 ### 📫 ¿Hablamos?
 
-- 📍 Hidalgo, México  
-- 📧 gangeagui@gmail.com  
-- 📱 +52 772 150 0767  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-aguilar-97879126a/)
-
----
-
-> _"El código limpio siempre importa. Una buena interfaz puede cambiar toda la experiencia."_  
+- ✉️ Correo: [gangeagui@gmail.com](mailto:gangeagui@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/gustavo-aguilar-97879126a](https://www.linkedin.com/in/gustavo-aguilar-97879126a/)  
+- 📍 Francisco I. Madero, Hidalgo, México  
