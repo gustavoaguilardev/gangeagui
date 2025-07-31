@@ -6,7 +6,7 @@
 
 ### 🧠 Sobre mí
 
-- 🎓 Universitario - Titulado de Ingeniería en Sistemas Computacionales en el ITSOEH (agosto 2020 - diciembre 2024).
+- 🎓 Universitario en proceso de Titulación de Ingeniería en Sistemas Computacionales en ITSOEH (agosto 2020 - diciembre 2024).
 - 🧰 Conocimientos en **Java SE**, **POO**, **colecciones**, **manejo de excepciones**, y estructuras de control.
 - 🌐 Familiaridad con frameworks como **Spring Boot**, desarrollo de APIs REST, y pruebas con **Postman**.
 - 🗄️ Experiencia práctica con **bases de datos relacionales (MySQL, SQL Server)** y consultas SQL.
@@ -19,11 +19,11 @@
 | Categoría         | Tecnologías                              |
 |------------------|-------------------------------------------|
 | Lenguajes         | `Java`, `SQL`, `JavaScript`, `HTML/CSS`  |
-| Frameworks        | `Spring Boot (básico)`, `JUnit`, `Thymeleaf` |
+| Frameworks        | `Spring Boot (básico)`, `JUnit`          |
 | BD Relacionales   | `MySQL`, `SQL Server`                    |
-| Control de versiones | `Git`, `GitHub`                         |
-| Herramientas      | `Maven`, `Postman`, `VS Code`, `IntelliJ` |
-| Otros             | Principios SOLID, diseño MVC, RESTful APIs |
+| Control de versiones | `Git`, `GitHub`                       |
+| Herramientas      | `Maven`, `Postman`, `VS Code`, `IntelliJ`|
+| Otros             | diseño MVC, RESTful APIs                 |
 
 ---
 
@@ -40,4 +40,4 @@
 
 - ✉️ Correo: [gangeagui@gmail.com](mailto:gangeagui@gmail.com)  
 - 🌐 LinkedIn: [linkedin.com/in/gustavo-aguilar-97879126a](https://www.linkedin.com/in/gustavo-aguilar-97879126a/)  
-- 📍 Francisco I. Madero, Hidalgo, México  
+- 📍 Hidalgo, México  
