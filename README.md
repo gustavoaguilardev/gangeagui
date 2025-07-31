@@ -6,7 +6,7 @@
 
 ### 🧠 Sobre mí
 
-- 🎓 Universitario en proceso de Titulación de Ingeniería en Sistemas Computacionales en ITSOEH (agosto 2020 - diciembre 2024).
+- 🎓 Egresado en proceso de Titulación de Ingeniería en Sistemas Computacionales en ITSOEH (agosto 2020 - diciembre 2024).
 - 🧰 Conocimientos en **Java SE**, **POO**, **colecciones**, **manejo de excepciones**, y estructuras de control.
 - 🌐 Familiaridad con frameworks como **Spring Boot**, desarrollo de APIs REST, y pruebas con **Postman**.
 - 🗄️ Experiencia práctica con **bases de datos relacionales (MySQL, SQL Server)** y consultas SQL.
