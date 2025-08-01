@@ -23,7 +23,7 @@
 | BD Relacionales   | `MySQL`, `SQL Server`                    |
 | Control de versiones | `Git`, `GitHub`                       |
 | Herramientas      | `Maven`, `Postman`, `VS Code`, `IntelliJ`|
-| Otros             | diseño MVC, RESTful APIs                 |
+| Otros             | diseño MVC, REST APIs                 |
 
 ---
 
