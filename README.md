@@ -1,29 +1,30 @@
 ## 👋 ¡Hola! Soy Gustavo Aguilar
 
-📌 Desarrollador **Java Junior** con una sólida base en desarrollo de aplicaciones web y de escritorio. Me apasiona escribir código limpio, aplicar buenas prácticas y construir soluciones robustas utilizando **Java** y herramientas modernas del ecosistema backend.
+📌 Desarrollador Junior con una sólida base en desarrollo de aplicaciones web. Me apasiona escribir código limpio, aplicar buenas prácticas y construir soluciones robustas utilizando Java, .NET y herramientas modernas del ecosistema backend.
 
 ---
 
 ### 🧠 Sobre mí
 
-- 🎓 Egresado en proceso de Titulación de Ingeniería en Sistemas Computacionales en ITSOEH (agosto 2020 - diciembre 2024).
+- 🎓 Licenciatura en Ingeniería en Sistemas Computacionales en ITSOEH.
 - 🧰 Conocimientos en **Java SE**, **POO**, **colecciones**, **manejo de excepciones**, y estructuras de control.
-- 🌐 Familiaridad con frameworks como **Spring Boot**, desarrollo de APIs REST, y pruebas con **Postman**.
-- 🗄️ Experiencia práctica con **bases de datos relacionales (MySQL, SQL Server)** y consultas SQL.
-- ⚙️ En proceso de dominar herramientas como **Maven**, **Git**, **Docker** y metodologías ágiles.
+- 🌐 Experiencia en desarrollo con **.NET**, **ASP.NET Core**, **MVC** y **Entity Framework**.
+- 📡 Creación e integración de **APIs RESTful** con **Java Spring Boot** y **ASP.NET Core**, documentadas con **Swagger**.
+- 🗄️ Manejo de **bases de datos relacionales** como **MySQL** y **SQL Server**, optimización de consultas y modelado de datos.
+- ⚙️ Familiaridad con herramientas y metodologías como **Git**, **Docker**, **Postman**, **Maven**, **Scrum** y control de versiones.
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 
-| Categoría         | Tecnologías                              |
-|------------------|-------------------------------------------|
-| Lenguajes         | `Java`, `SQL`, `JavaScript`, `HTML/CSS`  |
-| Frameworks        | `Spring Boot (básico)`, `JUnit`          |
-| BD Relacionales   | `MySQL`, `SQL Server`                    |
-| Control de versiones | `Git`, `GitHub`                       |
-| Herramientas      | `Maven`, `Postman`, `VS Code`, `IntelliJ`|
-| Otros             | diseño MVC, REST APIs                 |
+| Categoría         | Tecnologías                                                                 |
+|-------------------|------------------------------------------------------------------------------|
+| **Lenguajes**     | `Java`, `C#`, `SQL`, `JavaScript`, `HTML/CSS`                               |
+| **Frameworks**    | `Spring Boot (básico)`, `ASP.NET Core`, `Entity Framework`, `JUnit`         |
+| **BD Relacionales**| `MySQL`, `SQL Server`                                                      |
+| **Control de versiones** | `Git`, `GitHub`                                                       |
+| **Herramientas**  | `Maven`, `Postman`, `Visual Studio`, `VS Code`, `IntelliJ`, `XAMPP`         |
+| **Otros**         | `MVC`, `REST APIs`, `Swagger`, `Docker`, `Scrum`  
 
 ---
 
