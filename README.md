@@ -11,7 +11,7 @@
 - 🌐 Experiencia en desarrollo con **.NET**, **ASP.NET Core**, **MVC** y **Entity Framework**.
 - 📡 Creación e integración de **APIs RESTful** con **Java Spring Boot** y **ASP.NET Core**, documentadas con **Swagger**.
 - 🗄️ Manejo de **bases de datos relacionales** como **MySQL** y **SQL Server**, optimización de consultas y modelado de datos.
-- ⚙️ Familiaridad con herramientas y metodologías como **Git**, **Docker**, **Postman**, **Maven**, **Scrum** y control de versiones.
+- ⚙️ Familiaridad con herramientas y metodologías como **Git**, **Docker**, **Postman**, **Maven**, **Scrum**.
 
 ---
 
