@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Gustavo Aguilar
 
-📌 Desarrollador Junior con experiencia en desarrollo de aplicaciones web. Me apasiona escribir código limpio, aplicar buenas prácticas y construir soluciones robustas utilizando Java, .NET y herramientas modernas del ecosistema backend.
+📌 Desarrollador de Software Junior con experiencia en aplicaciones web. Me apasiona el trabajo en equipo, aplicar buenas prácticas y crear soluciones robustas con Java, .NET y tecnologías modernas.
 
 ---
 
